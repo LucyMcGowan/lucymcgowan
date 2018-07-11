@@ -59,6 +59,15 @@
     
     <url>
     
+      <loc>/talk/2016_jsm/</loc>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
@@ -69,6 +78,24 @@
     <url>
     
       <loc>/talk/</loc>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/2017_enar/</loc>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/2017_user/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -195,8 +222,24 @@
     
     <url>
     
+      <loc>/talk/asa_joint_statistical_meeting_2016/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/asa_joint_statistical_meeting_2015/</loc>
     </url>
     
   
@@ -224,9 +267,33 @@
     
     <url>
     
+      <loc>/talk/sas_global_forum_2016/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/</loc>
       <lastmod>2016-04-20T00:00:00-05:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/sas_analytics_2013/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/sas_global_forum_2013/</loc>
     </url>
     
   
@@ -254,9 +321,57 @@
     
     <url>
     
+      <loc>/talk/women_in_statistics_and_data_science_2017/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/141st_american_public_health_association_annual_meeting_2013/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/sas_global_forum_2017/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/northeast_sas_users_group_2013/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/sas_global_forum_2015/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/sas_global_forum_2014/</loc>
     </url>
     
   
