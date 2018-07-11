@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucy D&#39;Agostino McGowan on Lucy D&#39;Agostino McGowan</title>
+    <link>/</link>
+    <description>Recent content in Lucy D&#39;Agostino McGowan on Lucy D&#39;Agostino McGowan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Second-generation p-values: Improved rigor, reproducibility, &amp; transparency in statistical analyses</title>
+      <link>/publication/blume2018second/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/blume2018second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Safety of Sulfonylurea and Metformin Monotherapy on the Risk of Heart Failure: A Cohort Study</title>
+      <link>/publication/roumie2017comparative/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/roumie2017comparative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextualizing Sensitivity Analysis in Observational Studies: Calculating Bias Factors for Known Covariates</title>
+      <link>/talk/2017_jsm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2017_jsm/</guid>
+      <description>&lt;iframe src=&#34;http://rpubs.com/lucymcgowan/jsm2017&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring finite-sample bias in propensity score weights</title>
+      <link>/talk/2018_enar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018_enar/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/82KvJUDEfrxri6&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/LucyDAgostinoMcGowan/exploring-finitesample-bias-in-propensity-score-weights&#34; title=&#34;Exploring finite-sample bias in propensity score weights&#34; target=&#34;_blank&#34;&gt;Exploring finite-sample bias in propensity score weights&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/LucyDAgostinoMcGowan&#34; target=&#34;_blank&#34;&gt;Lucy D&amp;#x27;Agostino McGowan&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Making Causal Claims as a Data Scientist: Tips and Tricks Using R</title>
+      <link>/talk/2018_data-day-tx/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018_data-day-tx/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/9P8HJhPLMOzM9H&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/LucyDAgostinoMcGowan/making-causal-claims-as-a-data-scientist-tips-and-tricks-using-r-86791064&#34; title=&#34;Making Causal Claims as a Data Scientist: Tips and Tricks Using R&#34; target=&#34;_blank&#34;&gt;Making Causal Claims as a Data Scientist: Tips and Tricks Using R&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/LucyDAgostinoMcGowan&#34; target=&#34;_blank&#34;&gt;Lucy D&amp;#x27;Agostino McGowan&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Location Bias in ROC Studies</title>
+      <link>/publication/mcgowan2016location/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/mcgowan2016location/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secondary consent to biospecimen use in a prostate cancer biorepository</title>
+      <link>/publication/drake2016secondary/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/drake2016secondary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative evaluation of the community research fellows training program</title>
+      <link>/publication/d2015quantitative/</link>
+      <pubDate>Mon, 27 Jul 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/d2015quantitative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mouse low-grade gliomas contain cancer stem cells with unique molecular and functional properties</title>
+      <link>/publication/chen2015mouse/</link>
+      <pubDate>Tue, 24 Mar 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/chen2015mouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of racial and ethnic group and health literacy on responses to genomic risk information in a medically underserved population.</title>
+      <link>/publication/kaphingst2015effects/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/kaphingst2015effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is low health literacy associated with increased emergency department utilization and recidivism?</title>
+      <link>/publication/griffey2014low/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/griffey2014low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply</title>
+      <link>/publication/diggs2014reply/</link>
+      <pubDate>Fri, 18 Apr 2014 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/diggs2014reply/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender as a disease modifier in neurofibromatosis type 1 optic pathway glioma</title>
+      <link>/publication/fisher2014gender/</link>
+      <pubDate>Thu, 17 Apr 2014 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/fisher2014gender/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

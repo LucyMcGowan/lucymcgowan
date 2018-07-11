@@ -1,0 +1,46 @@
+{{ $ := .root }}
+{{ $page := .page }}
+   
+<!-- Contact widget -->
+<div id="profile">
+<ul class="network-icon" aria-hidden="true">
+{{ range $.Site.Params.social }}
+{{ $pack := or .icon_pack "fa" }}
+<li>
+<a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank" rel="noopener">
+<i class="{{ $pack }} {{ $pack }}-{{ .icon }} big-icon"></i>
+</a>
+</li>
+{{ end }}
+</ul>
+</div>
+
+<div id="carousel">
+    <div class="slide">
+  <img src="/img/car.JPG" alt="car" style="height:225px;"/>
+  </div>
+  <div class="slide">
+    <img src="/img/grandcanyon.jpg" alt="GrandCanyon" style="height:225px;"/>
+    </div>
+    <div class = "slide">
+      <img src="/img/ireland.JPG" alt="Ireland" style="height: 225px;"/>
+</div>
+<div class = "slide">
+      <img src="/img/cloghane.jpg" alt="Cloghane" style="height: 225px;"/>
+</div>
+<div class = "slide">
+      <img src="/img/italy.jpg" alt="Capri" style="height: 225px;"/>
+</div>
+<div class = "slide">
+      <img src="/img/formia.jpg" alt="Formia" style="height: 225px;"/>
+</div>
+<div class = "slide">
+      <img src="/img/iceland.jpg" alt="Capri" style="height: 225px;"/>
+</div>
+<div class = "slide">
+      <img src="/img/iceland2.jpg" alt="Capri" style="height: 225px;"/>
+</div>
+<div class = "slide">
+      <img src="/img/disney.jpg" alt="Capri" style="height: 225px;"/>
+</div>
+</div>

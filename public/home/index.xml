@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Lucy D&#39;Agostino McGowan</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Lucy D&#39;Agostino McGowan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>These days I like to discuss
+ BB-8
+ Postdoc-ing at Johns Hopkins Bloomberg School of Public Health Co-founding R-Ladies Nashville
+ Monty Python
+ Vanderbilt&amp;rsquo;s Biostatistics PhD program
+ Italian
+ Propensity scores
+  over coffee&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description> Vanderbilt University  Frank Harrell&amp;rsquo;s Regression Modeling Strategies (2017) Statistical Collaboration in Health Sciences Teaching Assistant (2015) Modern Regression Analysis Teaching Assistant (2015) Principles of Modern Biostatistics Teaching Assistant (2014)  Washington University in St. Louis  Introduction to SAS Teaching Assistant (2013) Introduction to Clinical Epidemiology Teaching Assistant (2013) Randomized Controlled Trials Teaching Assistant (2013)  Online Courses  DataCamp: Building Dashboards with shinydashboard  Tutoring  R Math GRE SAS Introduction to Biostatistics  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

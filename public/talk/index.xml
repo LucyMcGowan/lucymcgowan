@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Lucy D&#39;Agostino McGowan</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Lucy D&#39;Agostino McGowan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contextualizing Sensitivity Analysis in Observational Studies: Calculating Bias Factors for Known Covariates</title>
+      <link>/talk/2017_jsm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2017_jsm/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Exploring finite-sample bias in propensity score weights</title>
+      <link>/talk/2018_enar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018_enar/</guid>
+      <description>Exploring finite-sample bias in propensity score weights  from Lucy D&amp;#x27;Agostino McGowan</description>
+    </item>
+    
+    <item>
+      <title>Making Causal Claims as a Data Scientist: Tips and Tricks Using R</title>
+      <link>/talk/2018_data-day-tx/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018_data-day-tx/</guid>
+      <description>Making Causal Claims as a Data Scientist: Tips and Tricks Using R  from Lucy D&amp;#x27;Agostino McGowan</description>
+    </item>
+    
+  </channel>
+</rss>
