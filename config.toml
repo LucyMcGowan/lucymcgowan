@@ -302,7 +302,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "http://www.lucymcgowan.github.io/html-cv/live-cv.html"
+  url = "https://lucymcgowan.github.io/html-cv/live-cv.html"
   weight = 7
 
 # Taxonomies.
