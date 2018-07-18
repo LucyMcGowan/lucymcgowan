@@ -26,6 +26,6 @@ url_source = "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0
 math = true
 highlight = true
 [header]
-image = "sgpvalue.png"
+image = ""
 caption = ""
 +++
