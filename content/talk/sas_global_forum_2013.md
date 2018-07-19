@@ -3,8 +3,9 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title = "Multilevel Reweighted Regression Models to Estimate County-Level Racial Health Disparities Using PROC GLIMMIX"
 event = "SAS Global Forum 2013"
-time_start = 2013-01-01T12:00:00
-time_end = 2013-01-01T13:00:00
+time_start = 2013-04-29T10:30:00
+time_end = 2013-04-29T10:50:00
 
+abstract = "The agenda to reduce racial health disparities has been set primarily at the national and state levels. These levels may be too far removed from the individual level where health outcomes are realized, and this disconnect may be slowing the progress made in reducing these disparities. This paper focuses on establishing county-level prevalence estimates of diabetes among Non-Hispanic Whites and Non-Hispanic Blacks. These estimates are produced using multilevel reweighted regression models through the GLIMMIX procedure with 2006-2010 Behavioral Risk Factor Surveillance System data and 2010 census data. To examine whether racial disparities exist at the county level, the paper estimates the risk difference of prevalence estimates between races. It subsequently ranks counties and states by the magnitude of disparities."
 url_custom = [{name = "Link", url = "http://support.sas.com/resources/papers/proceedings13/442-2013.pdf"}]
 +++

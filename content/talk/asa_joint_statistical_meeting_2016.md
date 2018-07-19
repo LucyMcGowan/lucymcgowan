@@ -3,8 +3,9 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title = "Assessing the Association Between Accident Injury Severity and NCAP Car Safety Ratings”"
 event = "ASA Joint Statistical Meeting 2016"
-time_start = 2016-01-01T12:00:00
-time_end = 2016-01-01T13:00:00
+time_start = 2016-08-02T15:05:00
+time_end = 2016-08-02T15:25:00
 
-url_custom = [{name = "Link", url = "http://www.lucymcgowan.com/NHTSA-safety-analysis"}]
+abstract = "The U.S. New Car Assessment Program (NCAP) evaluates the safety of new cars through their 5-Star Safety Ratings program. In 2010, this program enhanced their protocol, making the ratings more stringent for cars in model years 2011 and onwards. We are interested in assessing this rating system's ability to predict accident injury severity. To evaluate this question, we use data reported in the National Highway Traffic Safety Administration's (NHTSA) General Estimates System (GES) database for the years 2011 to 2014, matched to NCAP overall safety ratings for 291 unique make, model, model year combinations. We fit a proportional odds regression model predicting injury severity for 23,641 individual passengers involved in car crashes, adjusting for accident-level covariates, such as the speed of the car and point of impact, and individual-level covariates, such as age and seating position."
+url_custom = [{name = "Link", url = "https://lucymcgowan.github.io/NHTSA-safety-analysis"}]
 +++
