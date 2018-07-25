@@ -10,3 +10,5 @@ url_custom = [{name = "Link", url = "http://ww2.amstat.org/meetings/jsm/2018/onl
 url_pdf = "https://github.com/LucyMcGowan/talks/raw/master/2018-07_jsm/slides.pdf"
 url_slides = "https://www.slideshare.net/LucyDAgostinoMcGowan/harnessing-the-power-of-the-web-via-r-clients-for-web-apis"
 +++
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/L9lOCtVF7uI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
