@@ -9,7 +9,7 @@ publication_types = ["3"]
 
 publication = "In *BMJ*"
 
-abstract = "New evidence helps individualise treatment decisions and minimise harm"
+abstract = "New evidence helps individualise treatment decisions and minimise harm. <br><br>Sulfonylureas and insulin were the cornerstone of diabetes management until 1998 when metformin became recommended as initial treatment by the American Diabetes Association and the European Association for the Study of Diabetes. Before 2008, treatments for diabetes were often approved on the basis of their ability to lower glycated haemoglobin (HbA1c) by 0.5% (5.5 mmol/mol) or other surrogate outcomes. After the controversy surrounding cardiovascular risk associated with thiazolidinediones, regulatory agencies such as the US Food and Drug Administration and the European Medicines Agency issued guidance for industries to evaluate the cardiovascular safety of antidiabetes drugs."
 
 selected = false
 
