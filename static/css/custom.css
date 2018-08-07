@@ -34,3 +34,18 @@
 #carousel .slide {
     display: inline-block;
 }
+
+.pub-list-item .pub-authors {
+  line-height: normal;
+  font-style: normal;
+  font-size: 1rem;
+  color: #28894C;
+}
+
+.navbar-default .navbar-brand {
+  font-family: 'myFancyFont';
+  text-transform: none;
+  font-weight: bold;
+  font-size: 1.2em;
+  color: {{ .Get "menu_title" }};
+}
