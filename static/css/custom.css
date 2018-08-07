@@ -49,3 +49,11 @@
   font-size: 1.2em;
   color: {{ .Get "menu_title" }};
 }
+
+ul.share li a {
+  background-color: #84C4FE;
+  display: block;
+  border-radius: 50%;
+  text-decoration: none !important;
+  margin: 0;
+}
