@@ -122,7 +122,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -153,7 +153,7 @@ enableGitInfo = false
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
   highlight = true
   highlight_languages = ["r"]
-  # highlight_style = "github"
+  highlight_style = "github"
 
   # Enable native social sharing buttons?
   sharing = true
@@ -206,7 +206,7 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 2
 
   # Social/Academic Networking
   #
