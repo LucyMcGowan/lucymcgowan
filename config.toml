@@ -179,8 +179,8 @@ enableGitInfo = false
     'Uncategorized',  # 0
     'Conference paper',  # 1
     'Journal article',  # 2
-    'Editorial',  # 3
-    'Report',  # 4
+    'Editorial/Reply',  # 3
+    'Review',  # 4
     'Book',  # 5
     'Book section'  # 6
   ]

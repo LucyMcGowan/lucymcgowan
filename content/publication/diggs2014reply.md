@@ -5,7 +5,7 @@
 title = "Reply"
 date = 2014-04-18
 authors = ["KA Diggs‐Andrews, JA Brown, SM Gianino, **L D'Agostino McGowan**, JB Rubin, DF Wozniak, DH Gutmann"]
-publication_types = ["2"]
+publication_types = ["3"]
 
 publication = "In *Annals of neurology*"
 
@@ -21,7 +21,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://onlinelibrary.wiley.com/doi/abs/10.1002/ana.24156"
 
 math = true
 highlight = true
