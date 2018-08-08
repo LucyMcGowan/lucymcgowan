@@ -15,6 +15,8 @@ weight = 60
 
 +++
 
+## University Courses
+
 ### Vanderbilt University
 
 * Frank Harrell's Regression Modeling Strategies (2017)
