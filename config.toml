@@ -183,6 +183,7 @@ enableGitInfo = false
     'Review',  # 4
     'Book',  # 5
     'Book section'  # 6
+    'Thesis' # 7
   ]
 
   # Configuration of talk pages.

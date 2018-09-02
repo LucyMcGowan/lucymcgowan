@@ -5,7 +5,7 @@
 title = "Improving Modern Techniques of Causal Inference: Finite Sample Performance of ATM and ATO Doubly Robust Estimators, Variance Estimation for ATO Estimators, and Contextualized Tipping Point Sensitivity Analyses for Unmeasured Confounding"
 date = 2018-05-11
 authors = ["**L D'Agostino McGowan**"]
-publication_types = ["2"]
+publication_types = ["7"]
 
 publication = "*Vanderbilt University*"
 
