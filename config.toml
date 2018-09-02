@@ -182,7 +182,7 @@ enableGitInfo = false
     'Editorial/Reply',  # 3
     'Review',  # 4
     'Book',  # 5
-    'Book section'  # 6
+    'Book section',  # 6
     'Thesis' # 7
   ]
 
