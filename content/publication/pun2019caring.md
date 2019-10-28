@@ -4,7 +4,7 @@
 
 title = "Caring for Critically Ill Patients with the ABCDEF Bundle: Results of the ICU Liberation Collaborative in Over 15,000 Adults"
 date = 2019-01-01
-authors = ["Brenda T Pun, Michele C Balas, Mary Ann Barnes-Daly, Jennifer L Thompson, J Matthew Aldrich, Juliana Barr, Diane Byrum, Shannon S Carson, John W Devlin, Heidi J Engel, Cheryl L Esbrook, Ken D Hargett, Lori RRT Harmon, Christina Hielsberg, James C Jackson, Tamra L Kelly, Vishakha Kumar, Lawson Millner, Alexandra Morse, Christiane S Perme, Patricia J Posa, Kathleen A Puntillo, William D Schweickert, Joanna L Stollings, Alai Tan, **Lucy D'Agostino McGowan**, E Wesley Ely"]
+authors = ["BT Pun, MC Balas, MA Barnes-Daly, JL Thompson, JM Aldrich, J Barr, D Byrum, SS Carson, JW Devlin, HJ Engel, CL Esbrook, KD Hargett, LRRT Harmon, C Hielsberg, JC Jackson, TL Kelly, V Kumar, L Millner, A Morse, CS Perme, PJ Posa, KA Puntillo, WD Schweickert, JL Stollings, A Tan, **L D'Agostino McGowan**, EW Ely"]
 publication_types = ["2"]
 
 publication = "In *Critical Care Medicine*"
