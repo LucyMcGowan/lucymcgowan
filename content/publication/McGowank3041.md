@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Sulfonylureas as second line treatment for type 2 diabetes"
-date = 2018-07-18
+date = 2018-07-18T00:00:00
 authors = ["**L D'Agostino McGowan**, CL Roumie"]
 publication_types = ["3"]
 

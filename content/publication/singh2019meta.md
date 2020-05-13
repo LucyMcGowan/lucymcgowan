@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Meta-analysis Comparing Outcomes of Two Different Negative Pressure Therapy Systems in Closed Incision Management."
-date = 2019
+date = 2019-06-01T00:00:00
 authors = ["DP Singh, A Gabriel, RP Silverman, LP Griffin, **L D'Agostino McGowan**, RB D’Agostino Jr"]
 publication_types = ["2"]
 

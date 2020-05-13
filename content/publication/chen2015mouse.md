@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Mouse low-grade gliomas contain cancer stem cells with unique molecular and functional properties"
-date = 2015-03-24
+date = 2015-03-24T00:00:00
 authors = ["Y Chen, **L D'Agostino McGowan**, PJ Cimino, S Dahiya, JR Leonard, DA Lee, DH Gutmann"]
 publication_types = ["2"]
 

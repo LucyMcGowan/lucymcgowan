@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Second-generation p-values: Improved rigor, reproducibility, & transparency in statistical analyses"
-date = 2018-03-22
+date = 2018-03-22T00:00:00
 authors = ["JD Blume, **L D'Agostino McGowan**, WD Dupont, RA Greevy"]
 publication_types = ["2"]
 

@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Quantitative evaluation of the community research fellows training program"
-date = 2015-07-27
+date = 2015-07-27T00:00:00
 authors = ["**L D'Agostino McGowan**, JD Stafford, VL Thompson, B Johnson-Javois, MS Goodman"]
 publication_types = ["2"]
 

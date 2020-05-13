@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Comparative Safety of Sulfonylurea and Metformin Monotherapy on the Risk of Heart Failure: A Cohort Study"
-date = 2017-04-01
+date = 2017-04-01T00:00:00
 authors = ["CL Roumie, JY Min, **L D'Agostino McGowan**, C Presley, CG Grijalva, AJ Hackstadt, AM Hung, RA Greevy, T Elasy, MR Griffin"]
 publication_types = ["2"]
 

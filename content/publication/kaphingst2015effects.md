@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Effects of racial and ethnic group and health literacy on responses to genomic risk information in a medically underserved population"
-date = 2015-02-01
+date = 2015-02-01T00:00:00
 authors = ["KA Kaphingst, JD Stafford, **L D'Agostino McGowan**, J Seo, CR Lachance, MS Goodman"]
 publication_types = ["2"]
 

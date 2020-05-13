@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Screening for colorectal cancer: Using data to set prevention priorities"
-date = 2014-01-01
+date = 2014-01-01T00:00:00
 authors = ["GA Colditz, **L D'Agostino McGowan**, AS James, K Bohlke, MS Goodman"]
 publication_types = ["2"]
 

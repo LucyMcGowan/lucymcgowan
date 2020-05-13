@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Gender as a disease modifier in neurofibromatosis type 1 optic pathway glioma"
-date = 2014-04-17
+date = 2014-04-17T00:00:00
 authors = ["Fisher, MJ, Loguidice, M, Gutmann, DH, Listernick, R, Ferner, RE, Ullrich, NJ, Packer, RJ, Tabori, U, Hoffman, RO, Ardern‐Holmes, SL, Hummel, TR, Hargrave DR, Bouffet E, Charrow J, Bilaniuk LT, Balcer LJ, **D'Agostino McGowan, L** , Liu GT"]
 publication_types = ["2"]
 

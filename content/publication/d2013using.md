@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Using small-area analysis to estimate county-level racial disparities in obesity demonstrating the necessity of targeted interventions"
-date = 2013-12-27
+date = 2013-12-27T00:00:00
 authors = ["**L D'Agostino McGowan**, RL Gennarelli, SA Lyons, MS Goodman"]
 publication_types = ["2"]
 

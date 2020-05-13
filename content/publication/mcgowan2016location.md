@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Location Bias in ROC Studies"
-date = 2016-09-16
+date = 2016-09-16T00:00:00
 authors = ["**L D'Agostino McGowan**, JA Bullen, NA Obuchowski"]
 publication_types = ["2"]
 

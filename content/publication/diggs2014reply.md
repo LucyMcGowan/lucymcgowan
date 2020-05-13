@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Reply"
-date = 2014-04-18
+date = 2014-04-18T00:00:00
 authors = ["KA Diggs‐Andrews, JA Brown, SM Gianino, **L D'Agostino McGowan**, JB Rubin, DF Wozniak, DH Gutmann"]
 publication_types = ["3"]
 

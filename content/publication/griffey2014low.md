@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Is low health literacy associated with increased emergency department utilization and recidivism?"
-date = 2014-10-01
+date = 2014-10-01T00:00:00
 authors = ["RT Griffey, SK Kennedy, **L D'Agostino McGowan**, MS Goodman, KA Kaphingst"]
 publication_types = ["2"]
 
