@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "👩‍🏫 Teaching"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -16,6 +16,11 @@ weight = 60
 +++
 
 ## University Courses
+
+### Wake Forest University
+
+* STA 363: Statistcal Learning (2020)  
+* STA 212: Statistical Models (2019)
 
 ### Vanderbilt University
 
@@ -31,7 +36,9 @@ weight = 60
 
 ## Online Courses
 
-* [DataCamp: Building Dashboards with shinydashboard](https://www.datacamp.com/courses/building-dashboards-with-shinydashboard)
+* [Creating dynamic dashboards with the shinydashboard R package](https://leanpub.com/c/shinydashboard) (2019)
+* [Understanding data and statistics in the medical literature](https://leanpub.com/universities/courses/jhu/udsml) (2019) 
+* [ggplot2 in 2: Learn the ggplot2 R package in 2 hours](https://leanpub.com/ggplot2in2) (2019) 
 
 ## Tutoring
 
