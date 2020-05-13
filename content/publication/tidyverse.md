@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Welcome to the Tidyverse"
-date = 
+date = "2019-08-01"
 authors = ["H Wickham, M Averick, J Bryan, W Chang, **L D’Agostino McGowan, R François, G Grolemund, A Hayes, L Henry, J Hester, M Kuhn, T Lin Pedersen, E Miller, S Milton Bache, K Müller, J Ooms, D Robinson, D Paige Seidel, V Spinu, K Takahashi, D Vaughan, C Wilke, K Woo, and H Yutani"]
 publication_types = ["2"]
 
