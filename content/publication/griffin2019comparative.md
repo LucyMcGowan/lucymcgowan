@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet (id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU)
 
 title = "Comparative Effectiveness of Two Collagen-containing Dressings: Oxidized Regenerated Cellulose (ORC)/Collagen/Silver-ORC Dressing Versus Ovine Collagen Extracellular Matrix"
-date = 
+date = "2019-11-01T00:00:00"
 authors = ["L Griffin, MJ Carter, R D'Agostino Jr, **L D'Agostino McGowan**"]
 publication_types = ["2"]
 
