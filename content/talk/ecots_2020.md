@@ -6,10 +6,6 @@ event = "eCOTS 2020"
 time_start = 2020-05-20T11:00:00
 time_end = 2020-05-20T12:00:00
 
-abstract = "In this session we will discuss three different aspects of engaging students during the COVID-19 health crisis:<br><br>
-
-How do we engage students with a sensitive topic like COVID-19?<br>
-How do we engage students with COVID-19 data? <br>
-How do we engage students in a virtual environment?"
+abstract = "In this session we will discuss three different aspects of engaging students during the COVID-19 health crisis:<br><br>How do we engage students with a sensitive topic like COVID-19?<br>How do we engage students with COVID-19 data? <br>How do we engage students in a virtual environment?"
 url_custom = [{name = "Link", url = "https://bit.ly/coronavirus-teaching-resources"}]
 +++
