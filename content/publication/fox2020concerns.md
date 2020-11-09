@@ -7,7 +7,7 @@ date = 2020-08-29T00:00:00
 authors = ["MP Fox, **L D'Agostino McGowan**, BD James, J Lessler, SH Mehta, EJ Murray"]
 publication_types = ["2"]
 
-publication = "In *American journal of epidemiology*"
+publication = "In *American Journal of Epidemiology*"
 
 abstract = ""
 
