@@ -1,7 +1,7 @@
 ---
 ## Configure page content in wide column
 title: "Lucy D'Agostino McGowan" # leave blank to exclude
-number_featured: 1 # pulling from mainSections in config.toml
+number_featured: 2 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 
@@ -11,6 +11,9 @@ intro: |
   
   * [[Recent publications]](https://scholar.google.com/citations?user=0hoQtKwAAAAJ&hl=en&oi=ao)  
   * [[Download CV]](https://github.com/LucyMcGowan/html-cv/raw/master/dagostino-mcgowan-cv.pdf)
+  ***
+  #### Listen to the Casual Inference Podcast
+  <iframe style="border: none" src="//html5-player.libsyn.com/embed/destination/id/1431806/height/250/theme/custom/thumbnail/yes/direction/backward/no-cache/true/render-playlist/yes/custom-color/f4915c/" height="250" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
   
 show_outro: false
 ---
