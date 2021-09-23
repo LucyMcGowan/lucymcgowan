@@ -33,7 +33,7 @@ enableEmoji = true
   description = ""
   favicon = "/img/favicon.ico"
   logo = "/img/icon.png"
-  mainSections = ["media", "talk"]
+  mainSections = ["talk", "writing"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -110,7 +110,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = ""
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -122,17 +122,17 @@ enableEmoji = true
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 4
+    weight = 6
   [[menu.header]]
     name = "Media"
     title = "Media"
     url = "/media/"
     weight = 5
       [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "https://livefreeordichotomize.com"
-    weight = 6
+    name = "Writing"
+    title = "Writing"
+    url = "/writing/"
+    weight = 2
     
   # Configure footer  
  # [[menu.footer]]
