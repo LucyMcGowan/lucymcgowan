@@ -1,0 +1,21 @@
+<!--section level-->
+            <center>
+{{ if .Params.sidebar.avatar }}
+              {{ $avatar := printf "%s" .Params.sidebar.avatar }}
+              {{ $avatar_shape := .Params.sidebar.avatar_shape | default "circle" }}
+              {{ with $avatar_shape }}
+                <img src="{{ $avatar }}" class="h8 w8 dib {{if eq . "rounded"}}br3{{end}}{{if eq . "circle"}}br-100{{end}}" alt="avatar">
+              {{ end }}
+            {{ end }}
+            <h2 class="f-subheadline-sidebar f3 fw6">{{ .Params.sidebar.title | markdownify }}</h2>
+              {{ if .Params.show_social }}
+              <div class="site-social-links db v-mid pv2">
+              {{ partial "shared/social-links.html" . }}
+              </div>
+            {{ end }}
+                        <h5 class="f-subheadline f5 fw2 ttu tracked">{{ .Params.sidebar.role | markdownify }}</h5>
+              {{ with .Params.sidebar.description }}<p class="f-subheadline f6 fw2 ttu tracked">{{ . | markdownify }}</p>{{ end }}
+              
+
+   
+            </center>

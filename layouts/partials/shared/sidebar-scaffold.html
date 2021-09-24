@@ -1,0 +1,9 @@
+{{ $page := . }}                       <!--save current page-->
+{{ $section := $page.CurrentSection }} <!--save current section-->
+{{ $is_root := eq .CurrentSection .FirstSection }}
+
+<sidebar class="about-sidebar order-1 mr4-l order-2-l mh0 w-third-l w-100-ns">
+  {{ partial "shared/sidebar/sidebar-header.html" $section }}
+</sidebar>
+
+{{ partial "shared/sidebar/sidebar-adunit.html" .Params.sidebar }}

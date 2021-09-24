@@ -15,7 +15,7 @@
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
     {{ end }}
     <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="{{ $link | safeURL }}" title="{{ .icon }}" {{ $target | safeHTMLAttr }}>
-      <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-lg fa-fw"></i>
+      <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-lg fa-fw" style="color:#111111"></i>
     </a>
   {{ end }}
 </div>
