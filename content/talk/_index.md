@@ -11,10 +11,10 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /talk/
 description: 
-layout: list
+layout: list 
 show_author_byline: false
 show_post_date: true
-show_post_thumbnail: false
+show_post_thumbnail: true 
 show_post_time: true
 sidebar:
   author: 

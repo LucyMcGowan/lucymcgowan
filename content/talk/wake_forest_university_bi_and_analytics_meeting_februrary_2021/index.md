@@ -14,7 +14,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: https://drive.google.com/drive/u/4/folders/1owmuZ2BW0uKv8HQ_8cL_fNs2cL6XK5px
+  url: https://docs.google.com/presentation/d/1rSZ4Momsr_sVcvNncgpS1NDqevlmCeXDPzHtLDv-xOs/edit
 
 
 

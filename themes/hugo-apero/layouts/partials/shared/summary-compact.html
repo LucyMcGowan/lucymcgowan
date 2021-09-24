@@ -30,7 +30,7 @@
         {{ end }}
       </header>
       {{ $summary := cond (ne .Params.excerpt nil) .Params.excerpt .Summary }}
-      {{ with $summary }}<p class="f6 lh-copy mv2 flex-auto measure-wide">{{ . | markdownify | emojify }}</p>{{ end }} 
+      {{ with $summary }}<p class="f6 lh-copy mv2 flex-auto measure-wide">{{ . | markdownify | emojify }}</p>{{ end }}
       <footer class="w-100">
       <!--ensures section Params are respected-->
       {{ if .Params.show_post_date }}<p class="f7 dib mv1">{{ partial "shared/date-range.html" . }}</p>{{ end }}
