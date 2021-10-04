@@ -4,8 +4,8 @@
 title: "Causal Inference in R"
 author: "Lucy D'Agostino McGowan and Malcolm Barrett"
 event: "New York R Conference 2021"
-date: 1630486800
-date_end: 1630515600
+date: 2021-09-01T9:00:00
+date_end: 2021-09-01T17:00:00
 categories:
  - Invited
  - Workshop
