@@ -128,11 +128,16 @@ enableEmoji = true
     title = "Media"
     url = "/media/"
     weight = 5
-      [[menu.header]]
+   [[menu.header]]
     name = "Writing"
-    title = "Writing"
+    title = "Recent Writing"
     url = "/writing/"
     weight = 2
+   [[menu.header]]
+    name = "Teaching"
+    title = "Teaching"
+    url = "/teaching/"
+    weight = 4 
     
   # Configure footer  
  # [[menu.footer]]
