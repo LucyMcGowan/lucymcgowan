@@ -1,6 +1,7 @@
 ---
 title: Creating dynamic dashboards with the shinydashboard R package
 author: Lucy D'Agostino McGowan
+date: 2021-02-01
 link: "https://leanpub.com/c/shinydashboard"
 links: 
 - icon: link

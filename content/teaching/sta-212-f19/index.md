@@ -1,6 +1,7 @@
 ---
 title: STA 212 -- WFU Fall 2019
 author: Lucy D'Agostino McGowan
+date: 2019-08-01
 link: "https://sta-212-f19.lucymcgowan.com"
 links: 
 - icon: link

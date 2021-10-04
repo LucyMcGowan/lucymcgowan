@@ -1,6 +1,7 @@
 ---
 title: Measuring and Maximizing Impact of COVID-19 Contact Tracing
 author: "Emily Gurley, Justin Lessler, Kyra Grantz, Elizabeth Lee, Lucy D'Agostino McGowan"
+date: 2021-01-01
 link: "https://www.coursera.org/learn/measuring-and-maximizing-impact-of-covid-19-contact-tracing"
 links: 
 - icon: link

@@ -1,6 +1,7 @@
 ---
 title: Understanding data and statistics in the medical literature
 author: Lucy D'Agostino McGowan
+date: 2021-03-01
 link: "https://leanpub.com/universities/courses/jhu/udsml"
 ---
 

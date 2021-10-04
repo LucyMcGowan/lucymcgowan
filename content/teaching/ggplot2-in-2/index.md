@@ -1,6 +1,7 @@
 ---
 title: ggplot2 in 2
 author: Lucy D'Agostino McGowan
+date: 2019-03-01
 link: "https://leanpub.com/ggplot2in2"
 links: 
 - icon: link
