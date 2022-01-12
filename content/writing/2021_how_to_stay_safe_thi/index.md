@@ -7,7 +7,7 @@ date: 1637452800
 link_out: true
 i: https://www.usatoday.com/story/opinion/2021/11/21/how-to-stay-safe-thanksgiving-holidays-covid-tests/8671612002/?gnt-cfr=1
 categories:
- - NA
+ - Op-ed
 links:
 
 - icon: link
