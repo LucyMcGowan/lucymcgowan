@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet [id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU]
 title: "Pathogenesis, Symptomatology, and Transmission of SARS-CoV-2 through Analysis of Viral Genomics and Structure"
 author: "Rando HM, MacLean AL, Lee AJ, Lordan R, Ray S, Bansal V, Skelly AN, Sell E, Dziak JJ, Shinholster L, **D'Agostino McGowan L**, Ben Guebila M, Wellhausen N, Knyazev S, Boca SM, Capone S, Qi Y, Park Y, Mai D, Sun Y, Boerckel JD, Brueffer C, Byrd JB, Kamil JP, Wang J, Velazquez R, Szeto GL, Barton JP, Goel RR, Mangul S, Lubiana T; COVID-19 Review Consortium Vikas Bansal, John P. Barton, Simina M. Boca, Joel D. Boerckel, Christian Brueffer, James Brian Byrd, Stephen Capone, Shikta Das, Anna Ada Dattoli, John J. Dziak, Jeffrey M. Field, Soumita Ghosh, Anthony Gitter, Rishi Raj Goel, Casey S. Greene, Marouen Ben Guebila, Daniel S. Himmelstein, Fengling Hu, Nafisa M. Jadavji, Jeremy P. Kamil, Sergey Knyazev, Likhitha Kolla, Alexandra J. Lee, Ronan Lordan, Tiago Lubiana, Temitayo Lukan, Adam L. MacLean, David Mai, Serghei Mangul, David Manheim, Lucy D’Agostino McGowan, Amruta Naik, YoSon Park, Dimitri Perrin, Yanjun Qi, Diane N. Rafizadeh, Bharath Ramsundar, Halie M. Rando, Sandipan Ray, Michael P. Robson, Vincent Rubinetti, Elizabeth Sell, Lamonica Shinholster, Ashwin N. Skelly, Yuchen Sun, Yusha Sun, Gregory L. Szeto, Ryan Velazquez, Jinhui Wang, Nils Wellhausen, Gitter A, Greene CS"
-date: NULL
+date: 1635120000
 link_out: false
 i: NA
 categories:
