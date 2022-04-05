@@ -9,7 +9,7 @@ date_end: 2022-04-05T12:30:00
 categories:
  - Invited
  - Oral Presentation
-excerpt: "This talk will focus on leveraging social media to communicate statistical concepts. From summarizing other's content to promoting your own work, we will discuss best practices for effective statistical communication that simultaneously is clear, engaging, and understandable while remaining rigorous and mathematically correct. It is increasingly important for people to be able to sift through what is important and what is noise, what is evidence and what is an anecdote. This talk focuses on techniques to strike an appropriate balance, with specifics on how to communicate complex statistical concepts in an engaging manner without sacrificing truth and content."
+excerpt: "This talk will focus on leveraging social media to communicate statistical concepts. From summarizing colleague's content to promoting your own work, we will discuss best practices for effective statistical communication that simultaneously is clear, engaging, and understandable while remaining rigorous and mathematically correct. It is increasingly important for people to be able to sift through what is important and what is noise, what is evidence and what is an anecdote. This talk focuses on techniques to strike an appropriate balance, with specifics on how to communicate complex statistical concepts in an engaging manner without sacrificing truth and content."
 links:
 - icon: images
   icon_pack: fas
