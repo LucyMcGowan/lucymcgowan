@@ -4,8 +4,8 @@
 title: "Modern Statistical Communication in the Social Media Era"
 author: "Lucy D'Agostino McGowan"
 event: "Wake Forest University Department of Biostatistics and Data Science"
-date: 2022-04-04T11:30:00
-date_end: 2022-04-04T12:30:00
+date: 2022-04-05T11:30:00
+date_end: 2022-04-05T12:30:00
 categories:
  - Invited
  - Oral Presentation
