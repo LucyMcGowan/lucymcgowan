@@ -7,6 +7,7 @@ author: "Lucy D'Agostino McGowan"
 event: "National Institute of Statistical Sciences Graduate Student Conference"
 date: 2022-05-15T14:00:00
 date_end: 2022-05-15T15:00:00
+draft: false
 categories:
  - Invited
  - Panel
