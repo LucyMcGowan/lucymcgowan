@@ -9,7 +9,7 @@ date_end: 2022-11-11T11:15:00
 categories:
  - Invited
  - Oral Presentation
-excerpt: "NA"
+excerpt: "This talk will focus on best practices for using modern statistics in health sciences."
 links:
 - icon: images
   icon_pack: fas
