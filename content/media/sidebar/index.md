@@ -2,7 +2,7 @@
 ## Configure sidebar content in narrow column
 author: "Lucy D'Agostino McGowan"
 role: "Biostatistician"
-avatar: /img/coffee-draw.png
+avatar: /img/headshot-square.jpg
 avatar_shape: rounded # circle, square, rounded
 show_social: true
 show_audio_link: false

@@ -5,7 +5,7 @@ show_title_as_headline: false
 headline: |
   These days I like to discuss
 images: 
-- ../img/headshot-square.jpg
+- ../img/coffee-draw.png
 footline: over coffee
 ---
 

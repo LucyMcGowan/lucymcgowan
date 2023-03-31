@@ -14,7 +14,8 @@ sidebar:
   description: |
    Check out Lucy's Blog  
    [livefreeordichotomize.com](https://livefreeordichotomize.com)
-  avatar: ../img/coffee-draw.png
+  avatar: ../img/headshot-square-2.jpg
+  avatar_shape: rounded
   show_sidebar_adunit: false 
 ---
 
