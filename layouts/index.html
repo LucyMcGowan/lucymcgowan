@@ -11,8 +11,9 @@
         {{ if .Params.show_action_link }}<a class="mt4 action {{ .Params.action_type }}" href="{{ .Params.action_link | relURL }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
       </div>
       <div class="tr w-30-l {{ if .Params.image_left }}ml4{{ else }}mr4{{ end }}">
+      {{ $image_shape := .Params.image_shape | default "circle" }}
       {{ with .Params.images }}
-        {{ range first 1 . }}<img class="mv0 w-70-m" src="{{ . }}"/>{{ end }}
+        {{ range first 1 . }}<img class="mv0 w-70-m {{if eq $image_shape "rounded"}}br3{{end}}{{if eq $image_shape "circle"}}br-100{{end}}" src="{{ . }}"/>{{ end }}
       {{ end }}
       </div>
     </div>

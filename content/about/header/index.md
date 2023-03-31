@@ -6,6 +6,7 @@ headline: |
   These days I like to discuss
 images: 
 - ../img/headshot-square.jpg
+image_shape: rounded
 footline: over coffee
 ---
 

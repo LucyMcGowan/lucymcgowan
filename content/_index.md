@@ -4,6 +4,7 @@ action_link: /about
 action_type: text
 images: 
 - img/headshot-long.png
+image_shape: rounded
 description: Lucy helps answer public health questions using statistics. Her research focuses on causal inference, human-data interaction, and statistical communication.
 image_left: false
 show_action_link: true
