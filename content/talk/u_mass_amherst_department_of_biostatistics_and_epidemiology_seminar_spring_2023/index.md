@@ -14,7 +14,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: https://docs.google.com/presentation/d/1yaSC3nuqhR39ckL8a_Iy9vjXOqnJtIDWdhyU06iyz_4/edit#slide=id.g14345f622cd_0_108
+  url: https://docs.google.com/presentation/d/1yaSC3nuqhR39ckL8a_Iy9vjXOqnJtIDWdhyU06iyz_4/
 
 
 

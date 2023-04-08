@@ -16,7 +16,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: https://docs.google.com/presentation/d/1Fmwdiqq4glLsjkLWVIMyAO5UCCTwAFFLBSI44JGXn84/edit?userstoinvite=mcgowald@wfu.edu&actionButton=1#slide=id.g22c20dd640f_1_2879
+  url: https://docs.google.com/presentation/d/1Fmwdiqq4glLsjkLWVIMyAO5UCCTwAFFLBSI44JGXn84/e
 
 
 
