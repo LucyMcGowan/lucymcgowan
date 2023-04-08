@@ -13,7 +13,10 @@ excerpt: "This talk will delve into two major causal inference obstacles: (1) id
 
 Statistics can help us explore the impact of unmeasured variables. The second half of the talk will focus on how statistical techniques can be leveraged to address unmeasured confounding. We will examine sensitivity analyses under several scenarios with varying levels of information about potential unmeasured confounders. These techniques will be applied using the tipr R package, which provides tools for conducting sensitivity analyses in a flexible and accessible manner."
 links:
-
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: https://docs.google.com/presentation/d/1Fmwdiqq4glLsjkLWVIMyAO5UCCTwAFFLBSI44JGXn84/edit?userstoinvite=mcgowald@wfu.edu&actionButton=1#slide=id.g22c20dd640f_1_2879
 
 
 
