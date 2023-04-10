@@ -16,7 +16,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: https://docs.google.com/presentation/d/1Fmwdiqq4glLsjkLWVIMyAO5UCCTwAFFLBSI44JGXn84/e
+  url: https://docs.google.com/presentation/d/1Fmwdiqq4glLsjkLWVIMyAO5UCCTwAFFLBSI44JGXn84/edit#slide=id.g22bbe59f70d_0_183
 
 
 
