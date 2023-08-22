@@ -11,11 +11,13 @@ intro: |
   
   * [[Recent publications]](https://scholar.google.com/citations?user=0hoQtKwAAAAJ&hl=en&oi=ao)  
   * [[Download CV]](https://github.com/LucyMcGowan/html-cv/raw/master/dagostino-mcgowan-cv.pdf)
-  ***
+  
   
   #### Awards
   
   Lucy was selected for the [Teaching in the Health Sciences Young Investigator Award](https://community.amstat.org/tshs/awards/younginvestigatoraward) for her paper  [*Design Principles for Data Analysis*](https://doi.org/10.1080/10618600.2022.2104290). She was also selected as an [ASA StatsForward Fellow](https://magazine.amstat.org/blog/2023/05/01/statsforward-leadership-initiative/).
+  
+  ***
   
   #### Listen to the Casual Inference Podcast
   <iframe style="border: none" src="//html5-player.libsyn.com/embed/destination/id/1431806/height/250/theme/custom/thumbnail/yes/direction/backward/no-cache/true/render-playlist/yes/custom-color/f4915c/" height="250" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
