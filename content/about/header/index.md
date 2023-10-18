@@ -12,10 +12,10 @@ footline: over coffee
 
 <!-- this is a subheadline -->
 
+* Analytic Design Theory
 * Statistical Communication
 * The [Casual Inference](https://casualinfer.libsyn.com) Podcast
 * Large-scale medical data
 * Italian
 * Co-founding [R-Ladies Nashville](https://rladies.org)
-* Human-data interaction
 * Disney World
