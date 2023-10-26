@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title: "Estimating causal effects: this be madness, yet there is method in it"
 author: "Lucy D'Agostino McGowan"
-event: "Appalachian State University"
+event: "Appalachian State University Fall 2023"
 date: 1694185200
 date_end: 1694275200
 categories:

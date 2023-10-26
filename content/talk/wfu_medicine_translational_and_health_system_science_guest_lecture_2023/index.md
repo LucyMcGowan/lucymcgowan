@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title: "Causal Inference is not just a statistics problem"
 author: "Lucy D'Agostino McGowan"
-event: "WFU Medicine Translational and Health System Science Guest Lecture"
+event: "WFU Medicine Translational and Health System Science Guest Lecture 2023"
 date: 2023-04-20T12:00:00
 date_end: 2023-04-20T14:00:00
 categories:

@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title: "Causal Quartet: When statistics alone do not tell the full story"
 author: "Lucy D'Agostino McGowan"
-event: "Duke University Department of Statistical Science"
+event: "Duke University Department of Statistical Science Fall 2023"
 date: 1694791800
 date_end: 1694795400
 categories:

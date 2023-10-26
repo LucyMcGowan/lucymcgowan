@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title: "Causal Inference is not a statistics problem"
 author: "Lucy D'Agostino McGowan"
-event: "Open Science ReproducibiliTea"
+event: "Open Science ReproducibiliTea 2023"
 date: 1687950000
 date_end: 1687953600
 categories:
