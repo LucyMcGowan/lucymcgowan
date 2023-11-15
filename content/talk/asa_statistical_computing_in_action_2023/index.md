@@ -8,7 +8,7 @@ date: 1699102200
 date_end: 1699106400
 categories:
  - Invited
- - Oral Presentation
+ - Panel
 excerpt: "A data jamboree is a party of different computing tools solving the same data science problems. The NYC Open Data of 311 Service Requests contains all 311 requests of NYC from 2010 to present. This talk with demonstrate how to analyze this data using R."
 links:
 

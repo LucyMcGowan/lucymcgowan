@@ -9,9 +9,7 @@ date_end: 2022-04-26T14:15:00
 categories:
  - Invited
  - Panel
-excerpt: "The debate over the value and interpretation of p-value has endured since the time of its inception nearly 100 years ago.  The use and interpretation of p-values vary by a host of factors, especially by discipline.
-
-These differences have proven to be a barrier when developing and implementing boundary-crossing clinical and translational science.  The purpose of this panel discussion is to discuss misconceptions, debates, and alternatives to the p-value."
+excerpt: "This talk will focus on leveraging social media to communicate statistical concepts. From summarizing other's content to promoting your own work, we will discuss best practices for effective statistical communication that simultaneously is clear, engaging, and understandable while remaining rigorous and mathematically correct. It is increasingly important for people to be able to sift through what is important and what is noise, what is evidence and what is an anecdote. This talk focuses on techniques to strike an appropriate balance, with specifics on how to communicate complex statistical concepts in an engaging manner without sacrificing truth and content."
 links:
 - icon: images
   icon_pack: fas
