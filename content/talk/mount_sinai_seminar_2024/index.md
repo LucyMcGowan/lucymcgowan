@@ -4,8 +4,8 @@
 title: "Integrating design thinking in the data analytic process"
 author: "Lucy D'Agostino McGowan"
 event: "Mount Sinai Seminar 2024"
-date: 2024-14-20T12:00:00
-date_end: 2024-14-20T13:00:00
+date: 1708430400
+date_end: 1708434000
 categories:
  - Invited
  - Oral Presentation
