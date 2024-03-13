@@ -16,6 +16,7 @@ links:
   name: pdf
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4376586/pdf/nihms666501.pdf
 
+
 ---
 
 The availability of adult malignant glioma stem cells (GSCs) has provided unprecedented opportunities to identify the mechanisms underlying treatment resistance. Unfortunately, there is a lack of comparable reagents for the study of pediatric low-grade glioma (LGG). Leveraging a neurofibromatosis-1 (Nf1) genetically-engineered mouse LGG model, we report the isolation of CD133+ multi-potent low-grade glioma stem cells (LG-GSCs), which generate glioma-like lesions histologically similar to the parent tumor following injection into immunocompetent hosts. In addition, we demonstrate that these LG-GSCs harbor selective resistance to currently-employed conventional and biologically-targeted anti-cancer agents, which reflect the acquisition of new targetable signaling pathway abnormalities. Using transcriptomal analysis to identify additional molecular properties, we discovered that mouse and human LG-GSCs harbor high levels of Abcg1 expression critical for protecting against endoplasmic reticulum (ER) stress-induced mouse LG-GSC apoptosis. Collectively, these findings establish that LGG cancer stem cells have unique molecular and functional properties relevant to brain cancer treatment.

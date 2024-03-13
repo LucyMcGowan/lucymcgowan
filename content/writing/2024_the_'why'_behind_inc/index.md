@@ -12,6 +12,10 @@ links:
 
 
 
+- icon: link
+  icon_pack: fas
+  name: link
+  url: https://arxiv.org/abs/2310.17434
 
 ---
 

@@ -16,6 +16,7 @@ links:
   url: https://magazine.amstat.org/blog/2020/10/01/asa-fellows-analysis/
 
 
+
 ---
 
 

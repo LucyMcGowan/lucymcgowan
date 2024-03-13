@@ -19,6 +19,7 @@ links:
   name: pdf
   url: https://etd.library.vanderbilt.edu/available/etd-03232018-135113/unrestricted/dagostino-mcgowan.pdf
 
+
 ---
 
 While estimators that incorporate both direct covariate adjustment and inverse probability weighting have drawn considerable interest, their finite sample properties have been challenged in seminal papers, such as Freedman and Berk (2008). We derive a doubly robust ATO estimator and demonstrate excellent finite sample performance for ATO and ATM doubly robust estimators in the setting of Freedman and Berk (2008). The methods and performance of variance estimators for IPW and IPW doubly robust estimators incorporating the recently defined ATO weights are an important open question in the field. We derive the large-sample variance estimator for the ATO doubly robust estimator for generalized linear models with identity, log, or logistic links. We conduct simulations to compare this estimator to common model-fitting practices, demonstrating under which conditions our estimated variance is preferred. Unobserved confounding remains a limitation for doubly robust estimators. We have worked to reframe the seminal work of Rosenbaum and Rubin (1983), Lin, Psaty, and Kronmal (1998), and Vanderweele and Ding (2017) to a formulation of a sensitivity to unmeasured confounders analysis that appeals to medical researchers. We offer guidelines to researchers for anchoring the tipping point analysis in the context of the study and introduce the R package tipr.

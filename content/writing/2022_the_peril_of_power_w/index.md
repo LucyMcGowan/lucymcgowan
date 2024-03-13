@@ -16,6 +16,7 @@ links:
   url: https://livefreeordichotomize.com/2022/02/21/the-peril-of-power-when-prioritizing-a-point-estimate/
 
 
+
 ---
 
 

@@ -19,6 +19,7 @@ links:
   name: pdf
   url: https://journals.asm.org/doi/epdf/10.1128/mSystems.00095-21
 
+
 ---
 
 The novel coronavirus SARS-CoV-2, which emerged in late 2019, has since spread around the world and infected hundreds of millions of people with coronavirus disease 2019 (COVID-19). While this viral species was unknown prior to January 2020, its similarity to other coronaviruses that infect humans has allowed for rapid insight into the mechanisms that it uses to infect human hosts, as well as the ways in which the human immune system can respond. Here, we contextualize SARS-CoV-2 among other coronaviruses and identify what is known and what can be inferred about its behavior once inside a human host. Because the genomic content of coronaviruses, which specifies the virus’s structure, is highly conserved, early genomic analysis provided a significant head start in predicting viral pathogenesis and in understanding potential differences among variants. The pathogenesis of the virus offers insights into symptomatology, transmission, and individual susceptibility. Additionally, prior research into interactions between the human immune system and coronaviruses has identified how these viruses can evade the immune system’s protective mechanisms. We also explore systems-level research into the regulatory and proteomic effects of SARS-CoV-2 infection and the immune response. Understanding the structure and behavior of the virus serves to contextualize the many facets of the COVID-19 pandemic and can influence efforts to control the virus and treat the disease.

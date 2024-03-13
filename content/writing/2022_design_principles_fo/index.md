@@ -19,6 +19,7 @@ links:
   name: pdf
   url: https://amstat.tandfonline.com/doi/pdf/10.1080/10618600.2022.2104290
 
+
 ---
 
 The data revolution has led to an increased interest in the practice of data analysis. While much has been written about statistical thinking, a complementary form of thinking that appears in the practice of data analysis is design thinking – the problem-solving process to understand the people for whom a solution is being designed. For a given problem, there can be significant or subtle differences in how a data analyst (or producer of a data analysis) constructs, creates, or designs a data analysis, including differences in the choice of methods, tooling, and workflow. These choices can affect the data analysis products themselves and the experience of the consumer of the data analysis. Therefore, the role of a producer can be thought of as designing the data analysis with a set of design principles. Here, we introduce design principles for data analysis and describe how they can be mapped to data analyses in a quantitative and informative manner. We also provide data showing variation of principles within and between producers of data analyses. Our work suggests a formal mechanism to describe data analyses based on design principles. These results provide guidance for future work in characterizing the data analytic process.

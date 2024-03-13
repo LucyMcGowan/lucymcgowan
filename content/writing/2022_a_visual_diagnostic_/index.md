@@ -13,6 +13,7 @@ links:
 
 
 
+
 ---
 
 Rosenbaum and Rubin (1983) suggested a visual representation, that can be used as a diagnostic tool, for examining whether the relationship between the confounders and the outcome are sufficiently controlled, or whether there is a more complex relationship that requires further adjustment. This short commentary highlights this simple tool, providing an example of its utility along with relevant R code.

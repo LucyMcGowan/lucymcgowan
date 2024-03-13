@@ -16,6 +16,7 @@ links:
 
 
 
+
 ---
 
 We conducted a randomized controlled trial to assess whether disclosing elements of uncertainty in an initial public health statement will change the likelihood that participants will accept new, different advice that arises as more evidence is uncovered. Proportional odds models were fit, stratified by the baseline likelihood to agree with the final advice. 298 participants were randomized to the treatment arm and 298 in the control arm. Among participants who were more likely to agree with the final recommendation at baseline, those who were initially shown uncertainty had a 46% lower odds of being more likely to agree with the final recommendation compared to those who were not (OR: 0.54, 95% CI: 0.27-1.03). Among participants who were less likely to agree with the final recommendation at baseline, those who were initially shown uncertainty have 1.61 times the odds of being more likely to agree with the final recommendation compared to those who were not (OR: 1.61, 95% CI: 1.15-2.25). This has implications for public health leaders when assessing how to communicate a recommendation, suggesting communicating uncertainty influences whether someone will adhere to a future recommendation.

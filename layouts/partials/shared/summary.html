@@ -34,6 +34,11 @@
       <!--ensures section Params are respected-->
       {{ if $root.Params.show_author_byline }}<p class="f7 db mv1">{{ if .Params.author }}By {{ .Params.author }}{{ end }}{{ with .Params.categories }} in{{ range . }} <a href="{{ "categories/" | absURL }}{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}</p>{{ end }}
       {{ if $root.Params.show_post_date }}<p class="f7 db mv1">{{ .PublishDate.Format "January 2, 2006" }}</p>{{ end }}
+      {{ if .Params.links }}
+        <div class="ph0 pt5">
+          {{ partial "shared/btn-links.html" . }}
+        </div>
+      {{ end }}
     </footer>
     </div>
   </div>
@@ -53,6 +58,11 @@
       {{ with .Params.categories }}{{ range . }} [<a style="text-decoration:none" href="{{ "categories/" | absURL }}{{ . | urlize }}"><span style="color:black"><b>{{ . }}</b></span></a>] {{ end }}{{ end }}
       {{ if $root.Params.show_author_byline }}<p class="f7 db mv2">{{ if .Params.author }}By {{ .Params.author | markdownify }}{{ end }}</p>{{ end }}
       {{ if $root.Params.show_post_date }}<p class="f7 db mv2">{{ .PublishDate.Format "January 2, 2006" }}</p>{{ end }}
+      {{ if .Params.links }}
+        <div class="ph0 pt5">
+          {{ partial "shared/btn-links.html" . }}
+        </div>
+      {{ end }}
     </footer>
   </div>
   {{ end }}

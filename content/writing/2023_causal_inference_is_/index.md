@@ -16,6 +16,7 @@ links:
 
 
 
+
 ---
 
 This paper introduces a collection of four data sets, similar to Anscombe's Quartet, that aim to highlight the challenges involved when estimating causal effects. Each of the four data sets is generated based on a distinct causal mechanism: the first involves a collider, the second involves a confounder, the third involves a mediator, and the fourth involves the induction of M-Bias by an included factor. The paper includes a mathematical summary of each data set, as well as directed acyclic graphs that depict the relationships between the variables. Despite the fact that the statistical summaries and visualizations for each data set are identical, the true causal effect differs, and estimating it correctly requires knowledge of the data-generating mechanism. These example data sets can help practitioners gain a better understanding of the assumptions underlying causal inference methods and emphasize the importance of gathering more information beyond what can be obtained from statistical tools alone. The paper also includes R code for reproducing all figures and provides access to the data sets themselves through an R package named quartets.

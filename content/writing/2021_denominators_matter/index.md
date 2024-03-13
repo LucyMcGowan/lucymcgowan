@@ -16,6 +16,7 @@ links:
   url: https://livefreeordichotomize.com/2021/07/21/denominators-matter/
 
 
+
 ---
 
 
