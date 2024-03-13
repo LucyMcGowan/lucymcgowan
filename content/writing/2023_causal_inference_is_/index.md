@@ -4,15 +4,15 @@
 title: "Causal Inference is not just a statistical problem"
 author: "D'Agostino McGowan L, Gerke T, Barrett M"
 date: 1681948800
-link_out: true
+link_out: false
 i: NA
 categories:
- - Pre-print
+ - Peer Reviewed Article
 links:
 - icon: link
   icon_pack: fas
   name: link
-  url: https://arxiv.org/abs/2304.02683
+  url: https://doi.org/10.1080/26939169.2023.2276446
 
 
 
