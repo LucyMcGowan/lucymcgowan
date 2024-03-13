@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title: "Bridging the gap between imputation theory and practice"
 author: "Lucy D'Agostino McGowan"
-event: "National Institute for Research in Digital Science and Technology"
+event: "National Institute for Research in Digital Science and Technology 2024"
 date: 1709632800
 date_end: 1709636400
 categories:

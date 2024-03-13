@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title: "Analytic Design Theory: Framework for Alignment Between Analyst and Audience"
 author: "Lucy D'Agostino McGowan"
-event: "NC ASA Annual Dinner"
+event: "NC ASA Annual Dinner 2024"
 date: 1706117400
 date_end: 1706121000
 categories:
