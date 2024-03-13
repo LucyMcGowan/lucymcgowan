@@ -9,6 +9,7 @@ i: https://livefreeordichotomize.com/posts/2023-07-26-visual-diagnostic-tool-for
 categories:
  - Blog post
 links:
+
 - icon: link
   icon_pack: fas
   name: link
