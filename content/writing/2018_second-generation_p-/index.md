@@ -20,7 +20,7 @@ links:
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5863943/pdf/pone.0188299.pdf
 - icon: link
   icon_pack: fas
-  name: link
+  name: preprint
   url: https://arxiv.org/abs/1709.09333
 
 ---
