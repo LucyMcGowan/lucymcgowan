@@ -4,12 +4,12 @@
 title: "Causal Inference in R"
 author: "Lucy D'Agostino McGowan and Malcolm Barrett"
 event: "New York R Conference 2021"
-date: 2023-07-11T08:00:00
-date_end: 2023-07-14T17:00:00
+date: 2021-09-01T9:00:00
+date_end: 2021-09-01T17:00:00
 categories:
  - Invited
  - Workshop
-excerpt: "In this workshop, we’ll teach the essential elements of answering causal questions in R through causal diagrams, and causal modeling techniques such as propensity scores and inverse probability weighting."
+excerpt: "In both data science and academic research, prediction modeling is often not enough; to answer many questions, we need to approach them causally. In this workshop, we’ll teach the essential elements of answering causal questions in R through causal diagrams, and causal modeling techniques such as propensity scores and inverse probability weighting. We’ll also show that by distinguishing predictive models from causal models, we can better take advantage of both tools. You’ll be able to use the tools you already know--the tidyverse, regression models, and more--to answer the questions that are important to your work."
 links:
 
 

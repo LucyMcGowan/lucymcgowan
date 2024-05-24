@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title: "Best Practices for Teaching R 
 A Randomized Controlled Trial"
-author: "Lucy D'Agositno McGowan"
+author: "Lucy D'Agostino McGowan"
 event: "SDSS 2020"
 date: 2020-06-05T11:00:00
 date_end: 2020-06-05T12:00:00
