@@ -7,7 +7,7 @@ date: 2020-08-29T00:00:00
 link_out: false
 i: NA
 categories:
- - Peer Reviewed Article
+ - Editorial/Reply
 links:
 - icon: link
   icon_pack: fas

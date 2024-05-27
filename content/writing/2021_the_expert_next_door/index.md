@@ -7,7 +7,7 @@ date: 1633564800
 link_out: false
 i: https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwab245/6383105?rss=1
 categories:
- - Peer Reviewed Article
+ - Editorial/Reply
 links:
 
 - icon: link

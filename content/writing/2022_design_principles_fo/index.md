@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet [id = 1HPQDH3tOXtZb1DV--8wR9CKAzUz5aywWc2vM3OQ5SrU]
 title: "Design Principles for Data Analysis"
 author: "D'Agostino McGowan L, Peng R, Hicks S"
-date: 2022-07-01T00:00:00
+date: 2023-01-01T00:00:00
 link_out: false
 i: NA
 categories:
