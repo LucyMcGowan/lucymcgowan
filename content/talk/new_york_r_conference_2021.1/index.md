@@ -3,9 +3,9 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title: "Causal Inference in R"
 author: "Lucy D'Agostino McGowan and Malcolm Barrett"
-event: "R in Government Conference"
-date: 2020-12-02T10:00:00
-date_end: 2020-12-02T13:00:00
+event: "New York R Conference 2021"
+date: 2022-07-08T9:00:00
+date_end: 2022-07-08T17:00:00
 categories:
  - Invited
  - Workshop

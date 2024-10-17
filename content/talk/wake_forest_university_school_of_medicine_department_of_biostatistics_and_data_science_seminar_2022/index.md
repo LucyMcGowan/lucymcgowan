@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title: "Modern Statistical Communication in the Social Media Era"
 author: "Lucy D'Agostino McGowan"
-event: "WFU Department of Biostatistics and Data Science Seminar 2022"
+event: "Wake Forest University School of Medicine Department of Biostatistics and Data Science Seminar 2022"
 date: 2022-04-05T11:30:00
 date_end: 2022-04-05T12:30:00
 categories:

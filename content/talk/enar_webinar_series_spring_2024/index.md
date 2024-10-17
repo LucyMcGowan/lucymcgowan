@@ -4,7 +4,7 @@
 title: "When to Include the Outcome in Your Imputation Model: 
 A Mathematical Demonstration and Practical Advice"
 author: "Lucy D'Agostino McGowan"
-event: "ENAR Webinar 2024"
+event: "ENAR Webinar Series Spring 2024"
 date: 1712916000
 date_end: 1713873600
 categories:

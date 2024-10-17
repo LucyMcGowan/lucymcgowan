@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title: "Hill's Criteria for the Data Scientist: Incorporating Causal Inference Techniques"
 author: "Lucy D'Agostino McGowan"
-event: "Wake Forest University BI and Analytics Meeting Februrary 2021"
+event: "Wake Forest University BI and Analytics Meeting February 2021"
 date: 2021-02-02T13:30:00
 date_end: 2021-02-02T14:00:00
 categories:

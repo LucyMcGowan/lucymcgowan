@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title: "Causal Inference Challenges that Go Beyond Statistics"
 author: "Lucy D'Agostino McGowan"
-event: "Johns Hopkins Department of Biostatistics Seminar Spring 2023"
+event: "Johns Hopkins Bloomberg School of Public Health Department of Biostatistics Seminar Spring 2023"
 date: 2023-04-10T12:15:00
 date_end: 2023-04-10T13:15:00
 categories:
