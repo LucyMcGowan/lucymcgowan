@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title: "Practical Principles for Data Analysis Design"
 author: "Lucy D'Agostino McGowan"
-event: "University Massachusetts Amherst Department of Biostatistics \& Epidemiology Seminar Spring 2023"
+event: "University Massachusetts Amherst Department of Biostatistics and Epidemiology Seminar Spring 2023"
 date: 2023-02-17T10:00:00
 date_end: 2023-02-17T11:00:00
 categories:
