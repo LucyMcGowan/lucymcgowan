@@ -5,7 +5,7 @@ title: "SAS ® for Budgeting an Ideal Wedding"
 author: "Lucy D'Agostino McGowan"
 event: "Northeast SAS Users Group 2013"
 date: 2013-09-09T15:00:00
-date_end: 2013-09-09:T16:00:00
+date_end: 1378742400
 categories:
  - Contributed
  - Poster
