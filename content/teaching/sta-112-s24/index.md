@@ -1,7 +1,7 @@
 ---
 title: STA 112 -- WFU Spring 2024
 author: Lucy D'Agostino McGowan
-date: 2024-01-01
+date: 2024-01-03
 link: "https://sta-112-s24.github.io/website/"
 links: 
 - icon: link
