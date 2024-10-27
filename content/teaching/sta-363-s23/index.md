@@ -1,7 +1,7 @@
 ---
 title: STA 363 -- WFU Spring 2023
 author: Lucy D'Agostino McGowan
-date: 2023-01-01
+date: 2023-01-03
 link: "https://sta-363-s23.github.io/website/"
 links: 
 - icon: link

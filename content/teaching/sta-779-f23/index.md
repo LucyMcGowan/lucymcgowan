@@ -1,7 +1,7 @@
 ---
 title: STA 779 -- WFU Fall 2023
 author: Lucy D'Agostino McGowan
-date: 2023-08-01
+date: 2023-08-03
 link: "https://sta-779-f23.github.io/website/"
 links: 
 - icon: link
