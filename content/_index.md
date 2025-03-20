@@ -5,7 +5,7 @@ action_type: text
 images: 
 - img/headshot-long.jpg
 image_shape: rounded
-description: Lucy helps answer public health questions using statistics. Her research focuses on causal inference, analytic design theory, and statistical communication.
+description: Lucy uses statistics to solve real-world problems. Her research focuses on causal inference, analytic design theory, and statistical communication.
 image_left: false
 show_action_link: true
 show_social_links: false
