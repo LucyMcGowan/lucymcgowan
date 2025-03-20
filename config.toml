@@ -90,6 +90,10 @@ buildFuture = true
       icon_pack = "fab"
       url       = "https://github.com/LucyMcGowan"
   [[params.social]]
+      icon      = "bluesky" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://bsky.app/profile/lucystats.bsky.social"
+  [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/LucyStats"
