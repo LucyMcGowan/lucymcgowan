@@ -22,5 +22,5 @@ links:
 
 ---
 
-
+The evolving focus in statistics and data science education highlights the growing importance of computing. This paper presents the Data Jamboree, a live event that combines computational methods with traditional statistical techniques to address real-world data science problems. Participants, ranging from novices to experienced users, followed workshop leaders in using open-source tools like Julia, Python, and R to perform tasks such as data cleaning, manipulation, and predictive modeling. The Jamboree showcased the educational benefits of working with open data, providing participants with practical, hands-on experience. We compared the tools in terms of efficiency, flexibility, and statistical power, with Julia excelling in performance, Python in versatility, and R in statistical analysis and visualization. The paper concludes with recommendations for designing similar events to encourage collaborative learning and critical thinking in data science.
 
