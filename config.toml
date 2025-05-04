@@ -70,7 +70,7 @@ buildFuture = true
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
-    use_utterances = true
+    use_utterances = false
     repo_name = "apreshill/apero"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
@@ -122,7 +122,7 @@ buildFuture = true
     name = "Lab"
     title = "Lab"
     url = "https://dmds.lucymcgowan.com"
-    weight = 7
+    weight = 8
   [[menu.header]]
     name = "Talks"
     title = "Talks"
@@ -143,6 +143,11 @@ buildFuture = true
     title = "Teaching"
     url = "/teaching/"
     weight = 4 
+   [[menu.header]]
+    name = "Workshops"
+    title = "Workshops"
+    url = "/workshops/"
+    weight = 7
     
   # Configure footer  
  # [[menu.footer]]
