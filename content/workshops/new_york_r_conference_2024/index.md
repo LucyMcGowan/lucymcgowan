@@ -11,9 +11,10 @@ categories:
  - Workshop
 excerpt: "In this workshop, we’ll teach the essential elements of answering causal questions in R through causal diagrams, and causal modeling techniques such as propensity scores and inverse probability weighting."
 links:
+
 - icon: link
   icon_pack: fas
-  name: Register
+  name: details
   url: https://r-causal.github.io/causal_workshop_website/
 
 

@@ -12,6 +12,7 @@ categories:
 excerpt: "This workshop covers set up, implementation, and tips and tricks for integrating RStudio Cloud in your classroom. RStudio Cloud is a great way to incorporate R in the classroom without the hassle of installation and complex set up."
 links:
 
+
 - icon: images
   icon_pack: fas
   name: slides
