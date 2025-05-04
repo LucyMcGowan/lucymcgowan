@@ -19,8 +19,8 @@ have a basic understanding of data manipulation and visualization using tidyvers
 are interested in understanding the fundamentals behind how to move from estimating correlations to causal relationships."
 links:
 - icon: exclamation
- icon_pack: fas
- name: Upcoming!
+  icon_pack: fas
+  name: Upcoming!
 - icon: link
   icon_pack: fas
   name: Register

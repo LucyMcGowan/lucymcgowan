@@ -14,8 +14,8 @@ excerpt: "In today’s fast-paced healthcare landscape, understanding data and s
 This course is designed to introduce you to the core concepts of data and statistics, equipping you with the tools to extract meaningful insights from research without becoming bogged down in complex mathematical notation."
 links:
 - icon: exclamation
- icon_pack: fas
- name: Upcoming!
+  icon_pack: fas
+  name: Upcoming!
 - icon: link
   icon_pack: fas
   name: Register
