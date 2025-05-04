@@ -3,3 +3,4 @@
 lazyapero::upload_talk_md()
 lazyapero::upload_media_md()
 lazyapero::upload_paper_md()
+lazyapero::upload_workshop_md()
