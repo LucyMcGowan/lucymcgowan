@@ -21,6 +21,7 @@ links:
 - icon: exclamation
   icon_pack: fas
   name: Upcoming!
+  url: https://posit.co/conference/
 - icon: link
   icon_pack: fas
   name: Register
