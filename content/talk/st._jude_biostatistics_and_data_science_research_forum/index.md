@@ -11,7 +11,10 @@ categories:
  - Oral Presentation
 excerpt: "While multiple imputation is widely accepted for handling missing data in clinical research, its default use in predictive modeling may be inappropriate. Multiple imputation relies on access to the outcome variable to avoid bias, an assumption that breaks down in real-world deployment where the outcome is unknown. This talk argues that deterministic imputation methods, which do not depend on the outcome and are computationally efficient, are better suited for building predictive models intended for deployment. We present theoretical results and simulation evidence demonstrating that deterministic imputation maintains model validity and performance without introducing information leakage. We conclude that for predictive tasks, particularly in clinical settings where transparency, reproducibility, and alignment with deployment conditions are essential, deterministic imputation should be the standard."
 links:
-
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: https://docs.google.com/presentation/d/1NAEp7gu68-07vWrwReC-5C6BHAFdG9X69sl2_2KhtnY/edit
 
 
 
