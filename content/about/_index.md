@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
- Lucy D'Agostino McGowan is an Assistant Professor of Statistics at Wake Forest University
+ Lucy D'Agostino McGowan is an Associate Professor of Statistics at Wake Forest University
 show_header: true
 show_sidebar: true
 title: About
