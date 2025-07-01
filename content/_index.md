@@ -9,7 +9,7 @@ description: Lucy uses statistics to solve real-world problems. Her research foc
 image_left: false
 show_action_link: true
 show_social_links: false
-subtitle: Assistant Professor of Statistics at Wake Forest University
+subtitle: Associate Professor of Statistics at Wake Forest University
 text_align_left: true
 title: Lucy D'Agostino McGowan
 type: home
