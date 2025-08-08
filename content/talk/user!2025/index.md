@@ -11,13 +11,13 @@ categories:
  - Oral Presentation
 excerpt: "This talk will focus on an application, ConTESSA, along with the accompanying R package, tti, designed to help quantify the impact of contact tracing programs. The talk will walk through the technical aspects of the underlying model as well as highlight how R, and in particular shiny, were used to create this product."
 links:
-
-
-
-- icon: link
+- icon: images
   icon_pack: fas
-  name: details
+  name: slides
   url: https://docs.google.com/presentation/d/1nziupk-fFWxMJwGIkChZkvlftu2HL0_f8CHkiyXP3qg/edit?slide=id.ga447f5e1d9_0_117#slide=id.ga447f5e1d9_0_117
+
+
+
 
 
 ---
