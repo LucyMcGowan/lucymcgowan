@@ -9,7 +9,7 @@ date_end: 1754829000
 categories:
  - Contributed
  - Oral Presentation
-excerpt: "NA"
+excerpt: "Inspired by the practical problem of chairing a useR conference session, this talk walks through building a Slido replacement in pure “vibe coding” mode — no specs, no tests, just a vision and a stubborn refusal to stop until it worked (sort of). We’ll explore the chaotic joy, the accidental brilliance, and the inevitable questionable code that got us there."
 links:
 - icon: images
   icon_pack: fas
