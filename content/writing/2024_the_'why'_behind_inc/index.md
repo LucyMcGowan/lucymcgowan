@@ -9,7 +9,10 @@ i: NA
 categories:
  - Peer Reviewed Article
 links:
-
+- icon: link
+  icon_pack: fas
+  name: link
+  url: https://journals.sagepub.com/doi/10.1177/09622802241244608
 
 
 - icon: link

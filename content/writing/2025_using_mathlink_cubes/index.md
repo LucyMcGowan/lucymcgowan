@@ -9,9 +9,15 @@ i: NA
 categories:
  - Peer Reviewed Article
 links:
+- icon: link
+  icon_pack: fas
+  name: link
+  url: https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2485234
 
-
-
+- icon: file
+  icon_pack: fas
+  name: pdf
+  url: https://www.tandfonline.com/doi/epdf/10.1080/26939169.2025.2485234
 
 
 ---

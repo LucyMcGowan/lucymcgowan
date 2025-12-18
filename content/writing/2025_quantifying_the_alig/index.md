@@ -9,9 +9,15 @@ i: NA
 categories:
  - Peer Reviewed Article
 links:
+- icon: link
+  icon_pack: fas
+  name: link
+  url: https://jds-online.org/journal/JDS/article/1437/info
 
-
-
+- icon: file
+  icon_pack: fas
+  name: pdf
+  url: https://jds-online.org/journal/JDS/article/1437/file/pdf
 
 
 ---
