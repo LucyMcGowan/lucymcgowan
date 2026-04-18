@@ -13,13 +13,10 @@ excerpt: "In today’s fast-paced healthcare landscape, understanding data and s
 
 This course is designed to introduce you to the core concepts of data and statistics, equipping you with the tools to extract meaningful insights from research without becoming bogged down in complex mathematical notation."
 links:
-- icon: exclamation
-  icon_pack: fas
-  name: Upcoming!
-  url: https://stathorizons.eventsmart.com/events/understanding-statistics-in-medical-literature-july-2025/?_gl=1*100wky0*_ga*Mzk4MDA3MDg2LjE3NDYzNzAwNDA.*_ga_HFBVRCZ5Y2*czE3NDYzNzAwNDAkbzEkZzEkdDE3NDYzNzMwOTgkajI2JGwwJGgw
+
 - icon: link
   icon_pack: fas
-  name: Register
+  name: details
   url: https://stathorizons.eventsmart.com/events/understanding-statistics-in-medical-literature-july-2025/?_gl=1*100wky0*_ga*Mzk4MDA3MDg2LjE3NDYzNzAwNDA.*_ga_HFBVRCZ5Y2*czE3NDYzNzAwNDAkbzEkZzEkdDE3NDYzNzMwOTgkajI2JGwwJGgw
 
 

@@ -18,13 +18,10 @@ know how to fit a linear regression model in R,
 have a basic understanding of data manipulation and visualization using tidyverse tools, and
 are interested in understanding the fundamentals behind how to move from estimating correlations to causal relationships."
 links:
-- icon: exclamation
-  icon_pack: fas
-  name: Upcoming!
-  url: https://posit.co/conference/
+
 - icon: link
   icon_pack: fas
-  name: Register
+  name: details
   url: https://posit.co/conference/
 
 
