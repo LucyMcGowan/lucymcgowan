@@ -7,7 +7,7 @@ number_categories: 3 # set to zero to exclude
 
 show_intro: true
 intro: |
-  Lucy D'Agostino McGowan is an associate professor in the Department of Statistical Sciences at Wake Forest University. She received her PhD in Biostatistics from Vanderbilt University and completed her postdoctoral training at Johns Hopkins University Bloomberg School of Public Health. Her research focuses on causal inference, statistical communication, analytic design theory, and data science pedagogy. Dr. D'Agostino McGowan was the 2023 chair of the American Statistical Association's Section on Statistical Graphics and can be found blogging at [livefreeordichotomize.com](https://livefreeordichotomize.com), on Twitter [@LucyStats](https://twitter.com/LucyStats), and podcasting on the American Journal of Epidemiology partner podcast, [Casual Inference](https://casualinfer.libsyn.com). 
+  Lucy D'Agostino McGowan is an associate professor in the Department of Statistical Sciences at Wake Forest University. She received her PhD in Biostatistics from Vanderbilt University and completed her postdoctoral training at Johns Hopkins University Bloomberg School of Public Health. Her research focuses on causal inference, statistical communication, analytic design theory, and data science pedagogy. Dr. D'Agostino McGowan was the 2023 chair of the American Statistical Association's Section on Statistical Graphics and can be found blogging at [livefreeordichotomize.com](https://livefreeordichotomize.com), on Twitter [@LucyStats](https://twitter.com/LucyStats), and podcasting on the American Journal of Epidemiology partner podcast, [Casual Inference](https://open.spotify.com/show/1L8TqB17Peo7jNgXuPObwi). 
   
   * [[Recent publications]](https://scholar.google.com/citations?user=0hoQtKwAAAAJ&hl=en&oi=ao)  
   * [[Download CV]](https://github.com/LucyMcGowan/html-cv/raw/master/dagostino-mcgowan-cv.pdf)
@@ -22,7 +22,7 @@ intro: |
   ***
   
   #### Listen to the Casual Inference Podcast
-  <iframe style="border: none" src="//html5-player.libsyn.com/embed/destination/id/1431806/height/250/theme/custom/thumbnail/yes/direction/backward/no-cache/true/render-playlist/yes/custom-color/f4915c/" height="250" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/show/1L8TqB17Peo7jNgXuPObwi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   
 show_outro: false
 ---

@@ -12,9 +12,10 @@ footline: over coffee
 
 <!-- this is a subheadline -->
 
+* Causal Inference
 * Analytic Design Theory
 * Statistical Communication
-* The [Casual Inference](https://casualinfer.libsyn.com) Podcast
+* The [Casual Inference](https://open.spotify.com/show/1L8TqB17Peo7jNgXuPObwi) Podcast
 * Large-scale medical data
 * Italian
 * Co-founding [R-Ladies Nashville](https://rladies.org)

@@ -10,7 +10,7 @@ link_list:
 - name: Check out the Wake Forest Data Science Lab
   url: https://dmds.lucymcgowan.com
 - name: Check out Lucy's Podcast
-  url: https://casualinfer.libsyn.com
+  url: https://open.spotify.com/show/1L8TqB17Peo7jNgXuPObwi
 ---
 
 ** index doesn't contain a body, just front matter above.
