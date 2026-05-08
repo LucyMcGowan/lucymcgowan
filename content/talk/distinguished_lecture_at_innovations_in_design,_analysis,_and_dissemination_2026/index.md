@@ -8,7 +8,7 @@ date: 1776675600
 date_end: 1776679200
 categories:
  - Invited
- - Oral Presentation
+ - Keynote
 excerpt: "This talk provides clear and practical guidance on the specification of imputation models when multiple imputation is used in conjunction with doubly robust estimation methods for causal inference. Through theoretical arguments and targeted simulations, we demonstrate that if a confounder has missing data, the corresponding imputation model must include all variables appearing in either the propensity score model or the outcome model, in addition to both the exposure and the outcome, and that these variables must enter the imputation model in the same functional form as in the final analysis. Violating these conditions can lead to biased treatment effect estimates, even when both components of the doubly robust estimator are correctly specified. We present a mathematical framework for doubly robust estimation combined with multiple imputation, establish the theoretical requirements for proper imputation in this setting, and demonstrate the consequences of misspecification through simulation. Based on these findings, we offer concrete recommendations to ensure valid inference when using multiple imputation with doubly robust methods in applied causal analyses."
 links:
 - icon: images
