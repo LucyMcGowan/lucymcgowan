@@ -11,13 +11,9 @@ categories:
  - Workshop
 excerpt: "This workshop introduces the essential elements of answering causal questions in R. Participants will work through examples of causal inference workflows, learn when standard statistical methods are appropriate and when specialized causal methods are needed, and practice specifying causal questions using Directed Acyclic Graphs (DAGs). The workshop also covers fitting, diagnosing, and applying propensity score models through weighting and matching to estimate causal effects."
 links:
-- icon: exclamation
-  icon_pack: fas
-  name: Upcoming!
-  url: https://lucymcgowan.github.io/agstat-causal-workshop/
 - icon: link
   icon_pack: fas
-  name: Register
+  name: Website
   url: https://lucymcgowan.github.io/agstat-causal-workshop/
 
 
