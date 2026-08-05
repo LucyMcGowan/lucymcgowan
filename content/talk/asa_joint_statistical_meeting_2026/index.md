@@ -3,7 +3,7 @@
 ## Do not edit directly, edit the Google Sheet [id = 1-PItelqpv0Sb_LdiEDqb8O3D_Roii5nVTL07IRVbRtA]
 title: "Symmetric Vaccine Efficacy: Interpretable Estimation and Inference for Vaccine Trials"
 author: "Lucy D'Agostino McGowan"
-event: "JSM 2026"
+event: "ASA Joint Statistical Meeting 2026"
 date: 1785837000
 date_end: 1785838800
 categories:
@@ -18,6 +18,9 @@ links:
 
 
 
-
+- icon: file
+  icon_pack: fas
+  name: pdf
+  url: https://raw.githubusercontent.com/LucyMcGowan/lucymcgowan/ff81e19a4a1674098f9bb2dc0fcd4e9580a7c313/content/talk/asa_joint_statistical_meeting_2026/2026-jsm.pdf
 
 ---
