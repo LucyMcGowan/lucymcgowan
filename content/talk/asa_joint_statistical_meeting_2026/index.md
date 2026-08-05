@@ -21,6 +21,6 @@ links:
 - icon: file
   icon_pack: fas
   name: pdf
-  url: https://raw.githubusercontent.com/LucyMcGowan/lucymcgowan/ff81e19a4a1674098f9bb2dc0fcd4e9580a7c313/content/talk/asa_joint_statistical_meeting_2026/2026-jsm.pdf
+  url: https://raw.githubusercontent.com/LucyMcGowan/lucymcgowan/master/content/talk/asa_joint_statistical_meeting_2026/2026-jsm.pdf
 
 ---
